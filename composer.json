@@ -1,0 +1,30 @@
+{
+	"name": "rmcgirr83/hideusername",
+	"type": "phpbb-extension",
+	"description": "This Extension hides usernames throughout the forum to guests",
+	"version": "2.0.0",
+	"time": "2021-09-11",
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Rich McGirr",
+			"role": "Developer"
+		},
+		{
+			"name": "Stefan Temath",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"require-dev": {
+		"phpbb/epv": "dev-master"
+	},
+	"extra": {
+		"display-name": "Hide Username",
+		"soft-require": {
+			"phpbb/phpbb": ">=3.1.1"
+        }
+	}
+}

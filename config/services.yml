@@ -1,0 +1,8 @@
+services:
+    rmcgirr83.hideusername.listener:
+        class: rmcgirr83\hideusername\event\listener
+        arguments:
+            - '@user'
+            - '@language'
+        tags:
+            - { name: event.listener }
