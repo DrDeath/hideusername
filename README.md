@@ -1,6 +1,8 @@
 # Hide Username for phpBB3
 This Extension hides usernames throughout the forum to guests
 
+Original from rmcgirr83 found on https://www.phpbb.com/community/viewtopic.php?p=14322341#p14322341
+
 [![Build Status](https://github.com/drdeath/hideusername/workflows/Tests/badge.svg)](https://github.com/drdeath/hideusername/actions)
 
 ## Installation
